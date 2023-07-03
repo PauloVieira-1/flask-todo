@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/dd8c3125-ec18-46f6-a140-ba7b52acefdb/resourceGroups/BikingToDo/providers/Microsoft.Web/sites/BikingToDo",
+    "appService.deploySubpath": "."
+}
